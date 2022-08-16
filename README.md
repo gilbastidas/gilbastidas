@@ -9,7 +9,7 @@
 - 👯 I’m looking to collaborate on data science, machine learning projects and chatbot development.
 - 🤔 I’m looking for help with DevOps and best coding practices. 
 - 💬 Ask me about 
-- 📫 How to reach me: LinkedIn.
+- 📫 How to reach me: [LinkedIn.](https://mx.linkedin.com/in/gilberto-ayala)
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: I'm learning to laugh out loud, seriously...
+- ⚡ Visit my Medium blog where you can learn everythin I learn, at least related with data and science! [Click here.](https://medium.com/@gil_ab)
 -->
